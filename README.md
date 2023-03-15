@@ -1,5 +1,6 @@
 # python_project
- https://wikidocs.net/21952#_1
- pyinstaller -w -F qtextbrowser_advanced.py
+https://wikidocs.net/21952#_1
  
- pyinstaller main.spec
+pyinstaller -w -F qtextbrowser_advanced.py
+ 
+pyinstaller main.spec
